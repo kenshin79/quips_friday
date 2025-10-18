@@ -1,5 +1,4 @@
-{
-  "glossary": [
+[
     {
       "term": "Quality Improvement (QI)",
       "definition": "A systematic, data-guided activity designed to bring about immediate improvements in health care delivery and outcomes."
@@ -101,4 +100,3 @@
       "definition": "Providing patients with clear guidance on what to do if their condition does not improve, ensuring ongoing safety after an encounter."
     }
   ]
-}
