@@ -1,0 +1,104 @@
+{
+  "glossary": [
+    {
+      "term": "Quality Improvement (QI)",
+      "definition": "A systematic, data-guided activity designed to bring about immediate improvements in health care delivery and outcomes."
+    },
+    {
+      "term": "Patient Safety",
+      "definition": "The prevention of errors and adverse effects to patients associated with health care."
+    },
+    {
+      "term": "Adverse Event",
+      "definition": "An injury caused by medical management rather than the underlying condition of the patient."
+    },
+    {
+      "term": "Near Miss",
+      "definition": "An event that could have caused harm to a patient but did not, either by chance or timely intervention."
+    },
+    {
+      "term": "Root Cause Analysis (RCA)",
+      "definition": "A structured method used to analyze serious adverse events to identify underlying problems that increase the likelihood of errors."
+    },
+    {
+      "term": "Plan-Do-Study-Act (PDSA) Cycle",
+      "definition": "An iterative, four-stage problem-solving model used to test changes and improve processes."
+    },
+    {
+      "term": "Benchmarking",
+      "definition": "Comparing performance metrics to best practices from other organizations to identify areas for improvement."
+    },
+    {
+      "term": "Clinical Governance",
+      "definition": "A framework through which health care organizations are accountable for continuously improving service quality and safeguarding high standards of care."
+    },
+    {
+      "term": "Failure Mode and Effects Analysis (FMEA)",
+      "definition": "A proactive method for evaluating a process to identify where and how it might fail and to assess the relative impact of different failures."
+    },
+    {
+      "term": "Human Factors Engineering",
+      "definition": "The study of how people interact with systems and devices, used to design safer and more efficient processes."
+    },
+    {
+      "term": "Just Culture",
+      "definition": "An organizational culture that balances accountability with a non-punitive approach to error reporting and learning."
+    },
+    {
+      "term": "Safety Culture",
+      "definition": "The shared values, attitudes, and behaviors that determine the commitment to health and safety management in an organization."
+    },
+    {
+      "term": "Incident Reporting",
+      "definition": "A system for reporting and analyzing events that did or could have resulted in harm to patients."
+    },
+    {
+      "term": "Standard Operating Procedure (SOP)",
+      "definition": "A detailed, written instruction designed to achieve uniformity in performing specific functions."
+    },
+    {
+      "term": "Evidence-Based Practice (EBP)",
+      "definition": "The conscientious integration of best research evidence, clinical expertise, and patient values in decision making about care."
+    },
+    {
+      "term": "Key Performance Indicator (KPI)",
+      "definition": "A measurable value that indicates how effectively an organization is achieving key objectives."
+    },
+    {
+      "term": "Lean Methodology",
+      "definition": "An approach focused on minimizing waste and maximizing value in processes."
+    },
+    {
+      "term": "Six Sigma",
+      "definition": "A data-driven method for improving quality by identifying and removing the causes of defects and minimizing variability."
+    },
+    {
+      "term": "Process Mapping",
+      "definition": "A visual representation of the steps involved in a process to identify areas for improvement."
+    },
+    {
+      "term": "Continuous Quality Improvement (CQI)",
+      "definition": "An ongoing effort to improve products, services, or processes through incremental and breakthrough improvements."
+    },
+    {
+      "term": "Handoff Communication",
+      "definition": "The transfer of essential patient information and responsibility between caregivers to ensure continuity and safety of care."
+    },
+    {
+      "term": "Sentinel Event",
+      "definition": "A patient safety event that results in death, permanent harm, or severe temporary harm, and signals a need for immediate investigation and response."
+    },
+    {
+      "term": "High Reliability Organization (HRO)",
+      "definition": "An organization that operates in complex, high-risk environments yet maintains a superior safety record through mindfulness and resilience."
+    },
+    {
+      "term": "Risk Management",
+      "definition": "The process of identifying, assessing, and controlling threats to an organization's capital and earnings, including patient harm."
+    },
+    {
+      "term": "Safety Netting",
+      "definition": "Providing patients with clear guidance on what to do if their condition does not improve, ensuring ongoing safety after an encounter."
+    }
+  ]
+}
