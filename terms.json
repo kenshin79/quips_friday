@@ -98,5 +98,65 @@
     {
       "term": "Safety Netting",
       "definition": "Providing patients with clear guidance on what to do if their condition does not improve, ensuring ongoing safety after an encounter."
-    }
+    },
+  {
+    "term": "Patient Engagement",
+    "definition": "The active involvement of patients in their own care to improve outcomes and safety."
+  },
+  {
+    "term": "Trigger Tool",
+    "definition": "A method for identifying possible adverse events in patient records using specific 'triggers' or clues."
+  },
+  {
+    "term": "Handoff Communication",
+    "definition": "The transfer of essential patient information during transitions in care to ensure continuity and safety."
+  },
+  {
+    "term": "ISBAR",
+    "definition": "A structured communication tool that stands for Identify, Situation, Background, Assessment, and Recommendation."
+  },
+  {
+    "term": "TeamSTEPPS",
+    "definition": "A teamwork system designed for healthcare professionals to improve communication and teamwork skills for patient safety."
+  },
+  {
+    "term": "Time Out",
+    "definition": "A deliberate pause before a procedure to confirm patient identity, procedure, and site to prevent errors."
+  },
+  {
+    "term": "Error of Commission",
+    "definition": "A safety event resulting from doing something wrong, such as giving the wrong medication."
+  },
+  {
+    "term": "Error of Omission",
+    "definition": "A safety event resulting from failing to do the right thing, such as not giving a necessary medication."
+  },
+      {
+    "term": "Safety Huddle",
+    "definition": "A brief, focused meeting of a care team to discuss safety concerns, plan care, and identify risks."
+  },
+  {
+    "term": "Never Event",
+    "definition": "A serious incident that is entirely preventable if proper safety measures are in place, such as surgery on the wrong site."
+  },
+  {
+    "term": "Process Map",
+    "definition": "A visual representation of the steps in a process to identify bottlenecks, waste, or opportunities for improvement."
+  },
+  {
+    "term": "Fishbone Diagram",
+    "definition": "A cause-and-effect diagram used to identify, explore, and display the possible causes of a specific problem."
+  },
+  {
+    "term": "Checklists",
+    "definition": "Structured tools used to ensure critical steps are not missed in clinical processes, improving consistency and reliability."
+  },
+  {
+    "term": "Hand Hygiene",
+    "definition": "A key infection prevention practice involving proper cleaning of hands to reduce the transmission of pathogens."
+  },
+  {
+    "term": "Clinical Audit",
+    "definition": "A systematic review of care against explicit criteria and implementation of change where necessary to improve patient outcomes."
+  }
   ]
