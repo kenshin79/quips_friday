@@ -3,21 +3,21 @@
       {
         "name": "Dose - Tablet dose",
         "formula": "Dose = dose prescribed (mg) / dose in stock (mg/tablet)",
-        "example": "Calculate the exact amount of medication to give based on available stock. \nExample: Metronidazole 750 mg 3 times a day, available tablet 500 mg/tablet:\n Dose = 750 mg/500 mg-tab = 1.5 tablet per dose"
+        "example": "Calculate the exact amount of medication to give based on available stock. \n\nExample:\n Metronidazole 750 mg 3 times a day, available tablet 500 mg/tablet:\n Tablet Dose = 750 mg/500 mg-tab = 1.5 tablet per dose"
       },
       {
         "name": "IV Drip Rate (gtt/min)",
         "formula": "Flow Rate = (Volume × Drop Factor) / Time (minutes)",
-        "example": "Determine the number of drops per minute for IV fluids."
+        "example": "Determine the number of drops per minute for IV fluids.\n\nExample:\n PNSS 40 ml/hr and drop factor of 20 \n Flow Rate = (40 ml x 20 gtts)/60 minutes\n = 13.33 or 13 gtts/min"
       },
       {
         "name": "Infusion Time",
         "formula": "Time (hr) = Volume / Rate",
-        "example": "Calculate how long it will take for an IV fluid to infuse"
+        "example": "Calculate how long it will take for an IV fluid to infuse\n\nExample:\n PNSS 1000 ml at 125 ml/hr\n Infusion Time = 1000 ml / 125 ml/hr\n = 8 hrs"
       },
       {
         "name":"Dose - Suspension dose",
         "formula": "(dose prescribed mg / dose in stock mg) x stock volume ml",
-        "example": "Calculate the exact amount of liquid medication to give in ml"
+        "example": "Calculate the exact amount of liquid medication to give in ml. \n\nExample:\n Amoxicillin 250 mg every 8 hours using a 125 mg/5 ml suspension\n Suspension Dose = (250 mg / 125 mg) x 5 ml\n = 10 ml per dose"
       }
 ]
