@@ -9,5 +9,10 @@
         "name": "IV Drip Rate (gtt/min)",
         "formula": "Flow Rate = (Volume × Drop Factor) / Time (minutes)",
         "example": "Determine the number of drops per minute for IV fluids."
+      },
+      {
+        "name": "Infusion Time",
+        "formula": "Time (hr) = Volume / Rate",
+        "example": "Calculate how long it will take for an IV fluid to infuse"
       }
 ]
