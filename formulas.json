@@ -1,1 +1,13 @@
+[
 
+      {
+        "name": "Basic Dose Calculation",
+        "formula": "Dose = (Desired Dose / Stock Strength) × Quantity",
+        "example": "Calculate the exact amount of medication to give based on available stock."
+      },
+      {
+        "name": "IV Drip Rate (gtt/min)",
+        "formula": "Flow Rate = (Volume × Drop Factor) / Time (minutes)",
+        "example": "Determine the number of drops per minute for IV fluids."
+      }
+]
