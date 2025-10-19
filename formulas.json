@@ -1,9 +1,9 @@
 [
 
       {
-        "name": "Basic Dose Calculation",
-        "formula": "Dose = (Desired Dose / Stock Strength) × Quantity",
-        "example": "Calculate the exact amount of medication to give based on available stock."
+        "name": "Dose - Tablet dose",
+        "formula": "Dose = dose prescribed (mg) / dose in stock (mg/tablet)",
+        "example": "Calculate the exact amount of medication to give based on available stock. \nExample: Metronidazole 750 mg 3 times a day, available tablet 500 mg/tablet:\n Dose = 750 mg/500 mg-tab = 1.5 tablet per dose"
       },
       {
         "name": "IV Drip Rate (gtt/min)",
