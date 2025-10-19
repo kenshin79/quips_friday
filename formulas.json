@@ -14,5 +14,10 @@
         "name": "Infusion Time",
         "formula": "Time (hr) = Volume / Rate",
         "example": "Calculate how long it will take for an IV fluid to infuse"
+      },
+      {
+        "name":"Dose - Suspension dose",
+        "formula": "(dose prescribed mg / dose in stock mg) x stock volume ml",
+        "example": "Calculate the exact amount of liquid medication to give in ml"
       }
 ]
