@@ -21,7 +21,7 @@
         "example": "Calculate the exact amount of liquid medication to give in ml. \n\nExample:\n Amoxicillin 250 mg every 8 hours using a 125 mg/5 ml suspension\n\n Suspension Dose:\n = (250 mg / 125 mg) x 5 ml\n = 10 ml per dose"
       },
       {
-            "name":"Mean Arterial Pressure (MAP)",
+            "name":"Mean Arterial Pressure",
             "formula":"MAP (mmHg) = [SBP + (2 x DBP)] / 3",
             "example":"A measure of the average pressure in the arteries and indicator of organ/tissue perfusion. A MAP of >=65 mmHg is recommended in patients with severe sepsis and/or septic shock.\n\nExample:\n Blood pressure of 90/60\n\n MAP:\n = [90 + (60 x 2)] / 3\n = (90 + 120)/3\n = 210/3\n = 70 mmHg" 
 
