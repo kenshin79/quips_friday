@@ -163,8 +163,8 @@
     "term": "Clinical Audit",
     "definition": "A systematic review of care against explicit criteria and implementation of change where necessary to improve patient outcomes."
   },
-    {
-        "term": "FDAR or Focused Charting",
-        "definition": "A structured method for documenting patient care using four components — Focus, Data, Action, and Response. It helps nurses record relevant information clearly and efficiently, emphasizing the patient’s current status, the care provided, and their response to interventions. \n\nF- pain from recent abdominal surgery\nD- 8/10 pain scale upon movement\nA- administer prescribed analgesics on time; encourage splinting. \nR- pain relieved now 5/10, will give PRN analgesics as ordered."
-    }
+{
+  "term": "FDAR or Focused Charting",
+  "definition": "A structured method for documenting patient care using four components — Focus, Data, Action, and Response. It helps nurses record relevant information clearly and efficiently, emphasizing the patient’s current status, the care provided, and their response to interventions.\n\nF - pain from recent abdominal surgery\nD - 8/10 pain scale upon movement\nA - administer prescribed analgesics on time; encourage splinting.\nR - pain relieved now 5/10, will give PRN analgesics as ordered."
+}
   ]
