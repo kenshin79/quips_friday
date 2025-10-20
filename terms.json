@@ -166,5 +166,10 @@
 {
   "term": "FDAR or Focused Charting",
   "definition": "A structured method for documenting patient care using four components — Focus, Data, Action, and Response. \n\nF - pain from recent abdominal surgery\nD - 8/10 pain scale upon movement\nA - administer prescribed analgesics on time; encourage splinting.\nR - pain relieved now 5/10, will give PRN analgesics as ordered."
-}
+},
+        {
+        "term": "ADPIE",
+        "definition": "Acronym for the 5 steps of the nursing process: A-Assessment, D-Diagnosis, P-Planning, I-Implementation, E-Evaluation."
+    }
+]
   ]
