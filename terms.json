@@ -1,5 +1,10 @@
 [
     {
+            "name": "00 Swipe and pull down to refresh the list.",
+            "formula": "Additional items will be added soon.", 
+            "example": "For your feedback and suggestions on new items to include in the QUIPS Friday App, please email quips.uppgh@up.edu.ph."
+    },
+    {
       "term": "Quality Improvement (QI)",
       "definition": "A systematic, data-guided activity designed to bring about immediate improvements in health care delivery and outcomes."
     },
