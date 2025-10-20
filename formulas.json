@@ -34,5 +34,10 @@
             "name":"Body Mass Index (BMI)",
             "formula":"BMI = weight in kg / (height in meters)²",
             "example":"The ratio of mass to height. Used as a general indicator of whether a person has a healthy body weight for height.\n\nExample:\n Person weighs 50 kgs and is 1.7 meters tall.\n\n BMI:\n = 70/(1.7)²\n = 70/2.89\n = 24.22"  
+      },
+      {
+            "name":"RASS (Richmond Agitation-Sedation Scale)",
+            "formula":"+4 : Combative -- Overtly combative, violent, immediate danger to staff\n+3 : Very agitated -- Pulls or removes tubes/catheters;aggressive\n+2 : Agitated -- Frequent non-purposeful movement, fights ventilator\n+1 : Restless -- Anxious but movements not aggressive vigorous\n0 : Alert and Calm\n-1 : Drowsy -- Not fully alert, but has sustained awakening (eye opening/contact to voice > 10 secs\n-2 : Light sedation -- Briefly awakens with eye contact to voice < 10 secs\n-3 : Moderate sedation -- Movement or eye opening to voice but no eye contact\n-4 : Deep sedation -- No response to voice, but moveent or eye opening to physical stimulation\n-5 : Unarousable -- No response to voice or physical stimulation",
+            "example":"Patient opens eyes ONLY with sternal rub or aggressive tapping: RASS -4 Deep sedation - decrease/stop sedative"
       }
 ]
