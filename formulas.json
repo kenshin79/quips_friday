@@ -42,7 +42,7 @@
       },
       {
             "name":"GCS (Glasgow Coma Scale)",
-            "formula":"Coma severity based on Eye (4), Verbal (5) and Motor (6) criteria\n\nE : Best eye response\n+4 : Spontaneously\n+3 : To verbal command\n+2 : To pain\n+1 : No eye opening\n\nV : Best verbal response\n+5 : Oriented\n+4 : Confused\n+3 : Inappropriate words\n+2 : Incomprehensible sounds\n+1 : No verbal response\n\nM : Best motor response\n+6 : Obeys commands\n+5 : Localizes pain\n+4 : Withdraws from pain\n+3 : Flexion to pain\n+2 : Extension to pain\n +1 : No motor response",
+            "formula":"Coma severity based on Eye (4), Verbal (5) and Motor (6) criteria\n\nE : Best eye response\n+4 : Spontaneously\n+3 : To verbal command\n+2 : To pain\n+1 : No eye opening\n\nV : Best verbal response\n+5 : Oriented\n+4 : Confused\n+3 : Inappropriate words\n+2 : Incomprehensible sounds\n+1 : No verbal response\n\nM : Best motor response\n+6 : Obeys commands\n+5 : Localizes pain\n+4 : Withdraws from pain\n+3 : Flexion to pain\n+2 : Extension to pain\n+1 : No motor response",
             "example": "--"
       }
 ]
