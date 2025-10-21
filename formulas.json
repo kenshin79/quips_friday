@@ -39,5 +39,10 @@
             "name":"RASS \n (Richmond Agitation-Sedation Scale)",
             "formula":"+4 : Combative -- Overtly combative, violent, immediate danger to staff\n+3 : Very agitated -- Pulls or removes tubes/catheters;aggressive\n+2 : Agitated -- Frequent non-purposeful movement, fights ventilator\n+1 : Restless -- Anxious but movements not aggressive vigorous\n 0 : Alert and Calm\n-1 : Drowsy -- Not fully alert, but has sustained awakening (eye opening/contact to voice > 10 secs\n-2 : Light sedation -- Briefly awakens with eye contact to voice < 10 secs\n-3 : Moderate sedation -- Movement or eye opening to voice but no eye contact\n-4 : Deep sedation -- No response to voice, but moveent or eye opening to physical stimulation\n-5 : Unarousable -- No response to voice or physical stimulation",
             "example":"Patient opens eyes ONLY with sternal rub or aggressive tapping: RASS -4 Deep sedation - decrease/stop sedative"
+      },
+      {
+            "name":"GCS (Glasgow Coma Scale)",
+            "formula":"Coma severity based on Eye (4), Verbal (5) and Motor (6) criteria\n\nE : Best eye response\n+4 : Spontaneously\n+3 : To verbal command\n+2 : To pain\n+1 : No eye opening\nV : Best verbal response\n+5 : Oriented\n+4 : Confused\n+3 : Inappropriate words\n+2 : Incomprehensible sounds\n+1 : No verbal response\nM : Best motor response\n+6 : Obeys commands\n+5 : Localizes pain\n+4 : Withdraws from pain\n+3 : Flexion to pain\n+2 : Extension to pain\n +1 : No motor response",
+            "example": "--"
       }
 ]
