@@ -1,6 +1,7 @@
 # QUIPS Friday
 A handy PGH QUIPS reference app for healthcare providers.
 
+# [Playstore Link] (https://play.google.com/store/apps/details?id=com.fulltincan.quips_friday&pcampaignid=web_share)
 ## Privacy Policy for QUIPS Friday
 
 Effective Date: October 11, 2025
